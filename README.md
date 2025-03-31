@@ -21,3 +21,4 @@ Click any of the images below to view the readme and live demo of the project.
     <img width="48%" src="./assets/images/Cv.png" alt="single page cv" />
   </a>
 </p>
+<p><a href="https://roadmap.sh/projects/single-page-cv">single page cv</a></p>

@@ -4,7 +4,7 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 ## Projects List
 
-[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)<!--, [Personal Portfolio](https://roadmap.sh/projects/portfolio-website),\
+[single page cv](https://roadmap.sh/projects/single-page-cv)<!--, [Personal Portfolio](https://roadmap.sh/projects/portfolio-website),\
 [Changelog Component](https://roadmap.sh/projects/changelog-component), [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards),\
 [Datepicker UI](https://roadmap.sh/projects/datepicker-ui), [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui),\
 [Image Grid Layout](https://roadmap.sh/projects/image-grid), [Tooltip UI](https://roadmap.sh/projects/tooltip-ui),\
@@ -21,4 +21,3 @@ Click any of the images below to view the readme and live demo of the project.
     <img width="48%" src="./assets/images/Cv.png" alt="single page cv" />
   </a>
 </p>
-<p><a href="https://roadmap.sh/projects/single-page-cv">single page cv</a></p>
